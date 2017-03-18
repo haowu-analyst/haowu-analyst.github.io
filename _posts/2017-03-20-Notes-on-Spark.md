@@ -36,3 +36,11 @@ The shell scripts in the `$SPARK_HOME/sbin` directory are used for starting/stop
 * Job outputs are logged in `$SPARK_HOME/work` directory by default.
 * Applications running on a standalone cluster can still access Hadoop files using the full URI `hdfs://<node>:<port>/<path>`.
 * Zookeeper is the best way to go for production-level high availability.
+
+#### Spark on YARN
+
+Either `HADOOP_CONF_DIR` or `YARN_CONF_DIR` environment variable must be set to point at the correct Hadoop or YARN config file directory for Spark to run on YARN.
+
+* Spark can be launched on YARN with one of two modes:
+  - In *cluster* mode, the driver program runs inside an application master process managed by YARN on the cluster. The client (the login shell, for example) can go away after submitting the application.
+  - In *client* mode, the driver program runs in the client process. The client process must not exit until the application finishes.
