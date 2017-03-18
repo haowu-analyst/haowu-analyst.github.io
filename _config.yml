@@ -1,0 +1,5 @@
+name: Hao
+markdown: kramdown
+permalink: /blog/:title
+kramdown:
+  parse_block_html: true
