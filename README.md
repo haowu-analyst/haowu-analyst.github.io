@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# leopard
 
-You can use the [editor on GitHub](https://github.com/haowu-analyst/haowu-analyst.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[leopard](http://robotkang.cc) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 使用条件
 
-### Markdown
+Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
+Jekyll 需要依赖：Ruby、bundler
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 获取博客模板
 
-```markdown
-Syntax highlighted code block
+> $ git clone https://github.com/MengZheK/kangblog.github.io.git
 
-# Header 1
-## Header 2
-### Header 3
+或者直接[下载博客](https://github.com/MengZheK/kangblog.github.io/archive/master.zip)   
 
-- Bulleted
-- List
+进kangblog.github.io/ 目录下， 开启本地服务 
 
-1. Numbered
-2. List
+> $ bundle exec jekyll server
 
-**Bold** and _Italic_ and `Code` text
+在浏览器输入 [127.0.0.1:4000](127.0.0.1:4000) ， 就可以看到博客效果了。
 
-[Link](url) and ![Image](src)
-```
+### 提示
+如果在部署博客的时候发现问题，可以直接在[message](https://robotkang.cc/liuyan/)里面提问。        
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haowu-analyst/haowu-analyst.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 感谢   
+本博客在[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)和[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
