@@ -4,8 +4,7 @@ Date: Wednesday, September 6, 2017 at 11:17 AM
 Subject: Crypto-currency Valuation Scenarios
 ```
 
-### Below are a few random thoughts on how to value cryptocurrencies like Bitcoin, Ethereum, Ripple and others.
- 
+#### Below are a few random thoughts on how to value cryptocurrencies like Bitcoin, Ethereum, Ripple and others.
 1. Assume eventually all nations on earth agree to abandon their sovereign currencies and adopt cryptocurrencies for all transactions, value preservation and anything else that we do with physical bills (including the digital representation of them) today, we will use all generally accepted cryptocurrencies in circulation available at the time to represent all the wealth of the entire world. Further assume that it happens in the year 2100, and by then the total wealth of the entire world as denominated in today’s US Dollar is amount `X`, and the total possible non-extensible (some kind of weight averaged) units of cryptocurrency is `Y`, then each unit of the (weight-averaged) cryptocurrency would worth `V = X / Y` USD today. If `Y` is permanently capped at a fixed number, then over time we have `V(t) = X(t) / Y`, meaning that the value of each unit will increase as the world's wealth continues growing.
    1. According to [this report](https://www.credit-suisse.com/corporate/en/articles/news-and-expertise/the-global-wealth-report-2016-201611.html), the global monetary wealth at 2016 was about *256 trillion* US Dollars. If Bitcoin were to become the only generally accepted cryptocurrency and replace all sovereign currencies in the world, with its by-design controlled supply of a total of *21 million* coins, each Bitcoin would eventually worth more than `256 trillion / 21 million = 12 million` USD in today’s dollars. 
 2. Assume in the near future cryptocurrencies are only used in black markets, underground economy, some open legal economic exchanges conducted by pioneering commercial entities and certain individuals for performing secure and private transactions, as is the reality at present, then the value of these cryptocurrencies is only manifested in their facilitating such transactions, rather than as a globally accepted sole representation of real wealth. In that case, the convenience value added by using cryptocurrency and the value of the traditional transaction costs that would have been incurred but are hence replaced by using cryptocurrencies summed up should equal the total worth of all cryptocurrencies in circulation, in terms of a sovereign currency, for example the US Dollar. If that amount is `X(t)`, and the total (some kind of weight averaged) units of cryptocurrency is `Y(t)`, where `t` is the time (since `X`? and `Y` will be increasing over time), then the value of each unit at time `t` is `V(t) = X(t) / Y(t)`.
@@ -17,14 +16,15 @@ Subject: Crypto-currency Valuation Scenarios
 
 Based on these estimates, the total worth of the few dominant generally accepted cryptocurrencies could be at least *1 trillion* USD soon. Today the [top 5 coins](https://coinmarketcap.com/) have a total market capitalization of about *130 billion* USD.
 
-### Key Questions
+#### Key Questions (that others have asked/answered or deemed stupid)
 - What's the guarantee that the currency supply will not be infinitely expanded? After all, it's just code. We can have whatever number we desire. If the supply is extensible, inflation is certainly going to happen.
 - Of all the cryptocurrencies out there, are some better than others in terms of technology advancement? Which is the best?
 - As we improve our blockchain algorithms and technologies in general, chances are that better versions of cryptocurrencies will continuaously be invented and supplied to the market. What will happen to older cyptocurrencies, like the Bitcoin?
   - An example would be Ethereum vs Bitcoin.
 - Although cryptocurrencies do not necessarily require the backup of a central government or any authority, nothing prohibits governments and authorities from voluntarily backing certain cryptocurrencies but not others. They can even create their own. In fact, anyone who has the savvy to understand the code can have his/her own version of a cryptocurrency. That's what's happening with all the ICOs (Initial Coin Offerings) these days. How do we deal with that? Because, as you can imagine, once the US, or China, or Russia government decides to back a particular cryptocurrency, it effectively becomes the only generally accepted currency at least in that sovereign and all others lose value. Truth is, that's exactly what happened with Ethereum, because [Vladimir Putin met its creator Vitalik Buterin](https://cointelegraph.com/news/suddenly-vladimir-putin-meets-vitalik-buterin-endorses-ethereum) and speculators smelled possible support of Ethereum from the Russian government. 
 - In the advent of [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing), the cryptographic algorithms that blockchain technologies rely on could become easily breakable in the future. What happens then?
-### Speculation Essentials:
+
+#### Speculation Essentials:
 - Where are the major cryptocurrency exchanges located and who are running them?
 - Who are the market makers?
 - Who hold the most units today?
