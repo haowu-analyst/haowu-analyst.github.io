@@ -17,11 +17,11 @@ Subject: Crypto-currency Valuation Scenarios
 Based on these estimates, the total worth of the few dominant generally accepted cryptocurrencies could be at least *1 trillion* USD soon. Today the [top 5 coins](https://coinmarketcap.com/) have a total market capitalization of about *130 billion* USD.
 
 #### Key Questions (that others have asked/answered or deemed stupid)
-- What's the guarantee that the currency supply will not be infinitely expanded? After all, it's just code. We can have whatever number we desire. If the supply is extensible, inflation is certainly going to happen.
+- What's the guarantee that the supply of cryptocurrencies will not be infinitely expanded? After all, it's just code. We can have whatever number we desire. If the supply is extensible, inflation is certainly going to happen.
 - Of all the cryptocurrencies out there, are some better than others in terms of technology advancement? Which is the best?
-- As we improve our blockchain algorithms and technologies in general, chances are that better versions of cryptocurrencies will continuaously be invented and supplied to the market. What will happen to older cyptocurrencies, like the Bitcoin?
+- As people improve blockchain algorithms and peripheral technologies in general, chances are that better versions of cryptocurrencies will continuously be invented and supplied to the market. What will happen to older cyptocurrencies, like the Bitcoin?
   - An example would be Ethereum vs Bitcoin.
-- Although cryptocurrencies do not necessarily require the backup of a central government or any authority, nothing prohibits governments and authorities from voluntarily backing certain cryptocurrencies but not others. They can even create their own. In fact, anyone who has the savvy to understand the code can have his/her own version of a cryptocurrency. That's what's happening with all the ICOs (Initial Coin Offerings) these days. How do we deal with that? Because, as you can imagine, once the US, or China, or Russia government decides to back a particular cryptocurrency, it effectively becomes the only generally accepted currency at least in that sovereign and all others lose value. Truth is, that's exactly what happened with Ethereum, because [Vladimir Putin met its creator Vitalik Buterin](https://cointelegraph.com/news/suddenly-vladimir-putin-meets-vitalik-buterin-endorses-ethereum) and speculators smelled possible support of Ethereum from the Russian government. 
+- Although cryptocurrencies do not necessarily require the endorsement of a central government or any authority, nothing prohibits governments and authorities from voluntarily backing certain cryptocurrencies but not others. They can even create their own. In fact, anyone who has the savvy to understand the code can have his/her own version of a cryptocurrency. That's what's happening with all the ICOs (Initial Coin Offerings) these days. How do we deal with that? Because, as you can imagine, once the US, or China, or Russia government decides to support a particular cryptocurrency, it effectively becomes the only generally accepted currency at least in that sovereign and all other cryptocurrencies will be dumped quickly. Truth is, that's exactly what happened with Ethereum recently when [Vladimir Putin met its creator Vitalik Buterin](https://cointelegraph.com/news/suddenly-vladimir-putin-meets-vitalik-buterin-endorses-ethereum) and speculators smelled possible support of Ethereum from the Russian government. 
 - In the advent of [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing), the cryptographic algorithms that blockchain technologies rely on could become easily breakable in the future. What happens then?
 
 #### Speculation Essentials:
@@ -34,3 +34,5 @@ Based on these estimates, the total worth of the few dominant generally accepted
   - Whether to get in?
   - How and when to get in?
   - How and when to get out?
+
+#### There must be a way to hack the algorithm/system to rob and/or steal cryptocurrencies
